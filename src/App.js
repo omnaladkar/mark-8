@@ -7,7 +7,11 @@ var emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "😅":"ha ha",
+  "😤":"aangry",
+  "😰":"panic",
+  "😖":"hungry"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
